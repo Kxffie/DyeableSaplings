@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "#minecraft:saplings",
+    [
+      "minecraft:lime_dye"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:jungle_sapling",
+    "components": {},
+    "count": 1
+  }
+}

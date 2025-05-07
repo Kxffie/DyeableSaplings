@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "#minecraft:saplings",
+    [
+      "minecraft:pink_dye"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:cherry_sapling",
+    "components": {},
+    "count": 1
+  }
+}

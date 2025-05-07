@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "#minecraft:saplings",
+    [
+      "minecraft:orange_dye"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:acacia_sapling",
+    "components": {},
+    "count": 1
+  }
+}

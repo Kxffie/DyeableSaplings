@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "#minecraft:saplings",
+    [
+      "minecraft:white_dye"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:birch_sapling",
+    "components": {},
+    "count": 1
+  }
+}

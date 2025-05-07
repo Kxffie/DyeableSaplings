@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "#minecraft:saplings",
+    [
+      "minecraft:black_dye"
+    ]
+  ],
+  "result": {
+    "id": "minecraft:dark_oak_sapling",
+    "components": {},
+    "count": 1
+  }
+}
