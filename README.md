@@ -1,5 +1,7 @@
 # Dyeable Saplings
 
+View on Modrinth: https://modrinth.com/datapack/dyeable-saplings
+
 A simple Minecraft datapack that lets you dye any sapling into a specific tree type. Just combine any sapling with a matching dye in a crafting table to get the new sapling.
 
 ## Features
